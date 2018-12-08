@@ -1,13 +1,18 @@
 import React, { Component } from 'react';
 import './App.css';
+import { HashRouter, Switch, Route } from 'react-router-dom'
+import Question from './Question.jsx';
+import About from './About';
 
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <h1>Should I have Cafe Rio?</h1>
-        <button onClick={() => window.location='https://www.caferio.com/'}>YES</button>
-      </div>
+      <HashRouter>
+        <Switch>
+          <Route exact path='/' component={ Question } />
+          <Route path='/about' component={ About } />
+        </Switch>
+      </HashRouter>
     );
   }
 }
