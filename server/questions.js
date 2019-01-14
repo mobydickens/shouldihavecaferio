@@ -40,20 +40,55 @@ module.exports = [
     question: 'Does your significant other like Cafe Rio?',
     answerYes: 'Nothing says I love you like eating Cafe Rio. You should have Cafe Rio!',
     answerNo: 'You might want to rethink this relationship while eating Cafe Rio!'
-  }
-  // {
-  //   question: ,
-  //   answerYes: ,
-  //   answerNo:
-  // },
-  // {
-  //   question: ,
-  //   answerYes: ,
-  //   answerNo:
-  // },
-  // {
-  //   question: ,
-  //   answerYes: ,
-  //   answerNo:
-  // },
-];
+  },
+  {
+    question: 'Do you enjoy skiing?',
+    answerYes: 'Those calories burned need to be replenished. You should have Cafe Rio!',
+    answerNo: 'You know what is the opposite of skiing? Eating. Have some Cafe Rio!'
+  },
+  {
+    question: 'Do you dream about Cafe Rio?',
+    answerYes: 'You should have Cafe Rio and make your dreams come true.',
+    answerNo: 'You will soon, because you should have Cafe Rio!'
+  },
+  {
+    question: 'If you were stuck on a deserted island, would Cafe Rio be the first thing you ate after being rescued?',
+    answerYes: 'You deserved to be saved. You should have Cafe Rio!',
+    answerNo: 'This answer means your exotic stay probably drove you mad. Cafe Rio is a great restorative!'
+  },
+  {
+    question: 'Do you have friends?',
+    answerYes: 'Nothing solidifies a friendship like bonding over food. You should have Cafe Rio (together)!',
+    answerNo: 'You don\'t need friends if you have Cafe Rio. Have some!'
+  },
+//   // {
+//   //   question: ,
+//   //   answerYes: ,
+//   //   answerNo:
+//   // },
+//   // {
+//   //   question: ,
+//   //   answerYes: ,
+//   //   answerNo:
+//   // },
+//   // {
+//   //   question: ,
+//   //   answerYes: ,
+//   //   answerNo:
+//   // },
+//   // {
+//   //   question: ,
+//   //   answerYes: ,
+//   //   answerNo:
+//   // },
+//   // {
+//   //   question: ,
+//   //   answerYes: ,
+//   //   answerNo:
+//   // },
+//   // {
+//   //   question: ,
+//   //   answerYes: ,
+//   //   answerNo:
+//   // },
+// ];
